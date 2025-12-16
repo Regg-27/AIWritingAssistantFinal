@@ -182,6 +182,8 @@ $PROJECT_DIR$
 If no key is found, the output panel displays:
 Error: Missing or invalid API key.
 
+### Issues with some of the tests created. Due to time constraints I ended up subtracting a couple of tests from the final product.
+
 
 ## Lessons Learned
 - Navigating rapid SDK changes required refactoring and deeper study of generated classes.
@@ -201,3 +203,4 @@ Approx. **30–35 hours**, which included:
 - Documentation and polishing  
 
 ## Link
+https://youtu.be/iFv0I-SHAPw
